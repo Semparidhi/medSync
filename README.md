@@ -1,7 +1,7 @@
 
-# Flutter Healsense Application
+# Flutter medSync Application
 
-![Frame 1](https://user-images.githubusercontent.com/42466886/209528036-684f1fae-2be3-47cc-9d18-a285a19a7afe.png)
+![Frame 1](https://github.com/Semparidhi/medSync/blob/main/assets/images/banner_img.png)
 
 ## Instructions
 
